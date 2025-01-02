@@ -1,0 +1,10 @@
+game\units\Enemy.class
+game\units\Unit.class
+game\config\GameConfig.class
+game\field\GameField.class
+game\Start.class
+game\units\Player.class
+game\units\Wall.class
+game\exceptions\IllegalParametersException.class
+game\units\Goal.class
+game\units\Movable.class
